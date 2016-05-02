@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+#body{
+	background-color:#C6C6C6;
+	margin:auto;
+	width:60%;
+}
+
+#clear{
+	clear:both;
+	padding-top:20px;
+}
+
+#h1{
+	font-family: "PT Sans";
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 400 bolder;
+	text-align:center;
+	margin-bottom:60px;
+	color: #120987;
+}
+
+#FF{
+	width:200px;
+	height:200px;
+	float:left;
+}
+
+#div1{
+	font-family: "PT Sans";
+	border-radius: 25px;
+    border: 2px solid #672526;
+    padding: 20px; 
+    width: 600px;
+    height: 250px;
+	position:static;
+	margin-left:250px;
+}
+#form {
+	font-family: "PT Sans";
+    width: 180px;
+    height: 250px;
+	padding:20px;
+	position:static;
+	float:right;
+}
+#add{
+    width: 600px;
+	lengh: 600px;
+    height: 250px;
+	padding:10px;
+	position:static;
+	float:right;
+}
+#hours {
+	font-family: "PT Sans";
+	border-radius: 25px;
+    border: 2px solid #672526;
+    width: 250px;
+    height: 250px;
+	position:static;
+	float:left;
+}
+
+
+#comment{
+	border: 4px solid rgba(0,0,0,0.1);
+	padding: 8px 10px;
+	width:600px;
+	length:600px;
+	float:left;
+	margin-left:40px;
+}
+
+#submit {
+	float:left;
+	margin-left:610px;
+	margin-right:100px;
+}
+
+.first-name{
+	margin-left:30px;
+	margin-right:740px;
+	margin-bottom:10px;
+}
