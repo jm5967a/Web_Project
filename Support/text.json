@@ -1,0 +1,76 @@
+{
+    "Restaurants": [
+        {
+            "Ambar": {
+                "Comments": [
+                    {
+                        "be": "Ambar is amazing! The desserts are a must try! 10\/10"
+                    },
+                    {
+                        "tmcgowin": "OMG went to Ambar and its so good! "
+                    },
+                    {
+                        "mike": "The food was pretty good but no sure if its my kinda place"
+                    }
+                ]
+            }
+        },
+        {
+            "Sakuramen": {
+                "Comments": [
+                    {
+                        "tmcgowin": "Anything above a spice level 2 is very spicy so watch out!"
+                    },
+                    {
+                        "jan09": "Ramen is the best I've had and definitely the best in DC. 5 stars"
+                    }
+                ]
+            }
+        },
+        {
+            "Founding Farmers": {
+                "Comments": [
+                    {
+                        "tmcgowin": "The egg Benedict is to die for! <3"
+                    },
+                    {
+                        "jan09": "yum yum yum! chill environment with awesome food"
+                    }
+                ]
+            }
+        },
+        {
+            "Ben's Chili Bowl": {
+                "Comments": [
+                    {
+                        "tmcgowin": "Cheap food, cool vibe, awesome chili"
+                    }
+                ]
+            }
+        },
+        {
+            "Union Market": {
+                "Comments": [
+                    {
+                        "tmcgowin": "The french bakery has the best croissants ever! also fish and chips are totally on point"
+                    },
+                    {
+                        "Anonymous": "Cool place to chill and drink craft beer "
+                    }
+                ]
+            }
+        },
+        {
+            "Baked & Wired": {
+                "Comments": [
+                    {
+                        "tmcgowin": "Buy a cupcake with a cup of their awesome drip coffee! It makes for an awesome combo!"
+                    },
+                    {
+                        "jan09": "The triple chocolate cupcake is so good! "
+                    }
+                ]
+            }
+        }
+    ]
+}

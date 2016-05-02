@@ -1,0 +1,8 @@
+{
+    "Polls": {
+        "Washington Monument": 0,
+        "Lincoln Memorial": 4,
+        "Newsuem": 11,
+        "White House": 1
+    }
+}
